@@ -2,3 +2,5 @@ hello
 world
 
 file was changed by another developer
+
+Modified in master branch to test git merge from git hub
